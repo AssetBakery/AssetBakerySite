@@ -1,0 +1,17 @@
+body {
+	background-size: cover;
+	background-position: center;
+}
+
+html {
+	height: 100%;
+}
+
+#rogueMobaLearnMore {
+	margin: 5px;
+	width: 33%;
+}
+
+h1 {
+	padding-top: 30px;
+}
